@@ -15,10 +15,15 @@ If any other problem occurs(most likely to be dll not found), please contact hzh
 
 ## Control&Play:
 WASD to control the camera perspective
+
 Direction buttons to move your character
+
 L to attack
+
 P to shield
+
 left+shift to dash
+
 right+shift to reset everything
 
 Keep an eye on your health and stamina when trying to defeat the boss!
